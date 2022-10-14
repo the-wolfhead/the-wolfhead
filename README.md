@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Daniel Otabor
+- 👋 Hi, I’m Daniel Otabor, a javascript full stack developer
 - 👀 I’m interested in building effective websites wih minimalist design elements. I also love animations (which puts me in a bit of a fix--see minimalist designs). Curreently, I work with 
 - Node.js
 - Typescript
 - Express.js
 - React
 - Next.js
+- AWS
+- Firebase
 - 🌱 I’m currently learning rust for blockchain development as I believe blockchain is the future and would want to be a part of the wave.
 - 💞️ I’m looking to collaborate on any projects  that would see me grow in experience and knowledge. I would however prefer something AI related.
 - 📫 How to reach me 
