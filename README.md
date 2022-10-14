@@ -12,7 +12,8 @@
 - 📫 How to reach me 
 - Twitter: https://twitter.com/WolfheadThe
 - Whatsapp: +2348184182136
-- Instagram:
+- Mobile: +2349077006672
+- portfolio: www.danielotabor.herokuapp.com
 - Mail: danieldamianotabor@gmail.com
 
 <!---
