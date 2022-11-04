@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Daniel Otabor, a javascript full stack developer
 
-👀 I’m interested in building effective websites with minimalist design elements. I also love animations (which puts me in a bit of a fix--see minimalist designs). Currently, I work with 
+👀 I’m interested in building effective web applications with minimalist design elements. I also love animations (which puts me in a bit of a fix--see minimalist designs). Currently, I work with 
 - Node.js
 - Typescript
 - Express.js
