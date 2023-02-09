@@ -14,7 +14,7 @@
 - Python
 <!--- Need to get these icons --->
 🌱 I’m currently learning rust for blockchain development as I believe blockchain is the future and would want to be a part of the wave.  
-💞️ I’m looking to collaborate on any projects  that would see me grow in experience and knowledge. I would however prefer something AI related.
+💞️ I’m looking to collaborate on any projects  that would see me grow in experience and knowledge. I would however prefer something AI related.  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-wolfhead&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 - 📫 How to reach me 
 - Twitter: https://twitter.com/WolfheadThe
