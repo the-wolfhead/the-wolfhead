@@ -20,7 +20,7 @@
 - Twitter: https://twitter.com/WolfheadThe
 - Whatsapp: +2348184182136
 - Mobile: +2349077006672
-- portfolio: http://danielotabor.herokuapp.com
+- portfolio: https://danielotabor.onrender.com
 - Mail: danieldamianotabor@gmail.com
 
 <!---
