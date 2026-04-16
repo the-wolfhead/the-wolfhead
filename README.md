@@ -1,13 +1,12 @@
 ## 👋 Hi, I’m Daniel Otabor, a javascript full stack developer
 
-👀 I’m interested in building effective web applications with minimalist design elements. I also love animations (which puts me in a bit of a fix--see minimalist designs). Currently, I work with 
-- Node.js
+👀 I’m interested in building effective and aesthetic everyday applications(web or mobile) with minimalist design elements. I also love animations (which puts me in a bit of a fix--see minimalist designs). Currently, I work with 
+- Node.js and it's libraries (Express and Handlebars)
 - Typescript
-- Express.js
-- React
-- Redux
+- React & React Native
+- Threes.js
 - Next.js
-- MySQL
+- SQL(Postgres and MySQL)
 - MongoDb   
 - AWS
 - Firebase
